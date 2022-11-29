@@ -1,6 +1,6 @@
 # Algo en Python
 
-Ce repo contient des scripts en Python pour apprendre l'algorythmique.
+Ce repo contient des scripts en Python pour apprendre l'algorithmique.
 
 ## Prérequis
 
