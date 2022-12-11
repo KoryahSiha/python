@@ -7,3 +7,9 @@
 
 # réponse 2.5
 
+number4 = 3.1415
+number4_rounded = round(3.1415, 0)
+print(number4_rounded)
+
+number4_int = int(number4_rounded)
+print(number4_int)

@@ -5,3 +5,6 @@
 
 # réponse 2.2
 
+number1 = 2
+number1_float = float(2)
+print(number1_float)
