@@ -9,3 +9,7 @@ birthyear = 1988
 
 # réponse 3.1
 
+year = 2022
+
+age = year - birthyear
+print(age)
