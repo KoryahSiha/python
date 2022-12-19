@@ -5,5 +5,15 @@
 
 # réponse 3.4
 
-average = (1, 2, 3, 5, 8, 13, 21)
-print(sum(average) / len(average))
+number1 = 1
+number2 = 2
+number3 = 3
+number4 = 5
+number5 = 8
+number6 = 13
+number7 = 21
+
+number = 7
+
+average = (number1 + number2 + number3 + number4 + number5 + number6 + number7) / number
+print(average)
