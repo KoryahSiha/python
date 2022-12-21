@@ -13,8 +13,8 @@ friends = 3
 
 # réponse 3.3
 
-candies_per_person = candies / friends
-chocolates_per_person = chocolates / friends
+candies_per_person = candies // friends
+chocolates_per_person = chocolates // friends
 
-print(int(candies_per_person))
-print(int(chocolates_per_person))
+print(candies_per_person)
+print(chocolates_per_person)
