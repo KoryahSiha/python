@@ -13,8 +13,8 @@ friends = 3
 
 # réponse 3.2
 
-candies_rest = candies % 3
-chocolates_rest = chocolates % 3
+candies_rest = candies % friends
+chocolates_rest = chocolates % friends
 
 print(candies_rest)
 print(chocolates_rest)

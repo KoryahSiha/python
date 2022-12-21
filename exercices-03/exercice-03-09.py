@@ -21,10 +21,10 @@ print(weight_alpha)
 weight_beta = 100 / 1000
 print(weight_beta)
 
-price_per_kilo_alpha = (price_alpha * weight_alpha) * 100
+price_per_kilo_alpha = (price_alpha * 1) / weight_alpha
 print(price_per_kilo_alpha)
 
-price_per_kilo_beta = (price_beta * weight_beta) *100
+price_per_kilo_beta = (price_beta * 1) / weight_beta
 print(price_per_kilo_beta)
 
 result = price_per_kilo_alpha < price_per_kilo_beta
