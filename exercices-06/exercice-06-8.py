@@ -10,4 +10,4 @@ somme = 0
 for item in my_list:
     somme += item
 
-print(f'{somme = }')
+print(somme)

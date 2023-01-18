@@ -5,7 +5,10 @@ my_list = [2.71, 42, 123, 2, 3.14, 1.61]
 
 # réponse 6.12
 
-number = <= 10
+somme = 0
 
-for (number <= 10) in my_list:
-    print(number)
+for item in my_list:
+    if item <= 10:
+        somme += item
+
+print(round(somme, 2))
