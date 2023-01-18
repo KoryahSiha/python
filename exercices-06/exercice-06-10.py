@@ -21,4 +21,4 @@ def average(numbers: list) -> float:
     return result
 
 result = average(my_list)
-print(round(result, 2))
+print(result)

@@ -11,5 +11,4 @@ for i in range(0,len(my_list)):
       new_list.append(my_list[i]*100)  
 
 my_list = new_list
-result = my_list
-print(result)
+print(my_list)

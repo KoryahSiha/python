@@ -11,4 +11,4 @@ for item in my_list:
     if item <= 10:
         somme += item
 
-print(round(somme, 2))
+print(somme)
