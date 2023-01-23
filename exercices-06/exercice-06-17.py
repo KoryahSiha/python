@@ -14,4 +14,5 @@ for _ in range(0, size):
 print(matrix)
 
 # réponse 6.17
-# 64 donc index 3 2
+
+print(matrix[2][-2])

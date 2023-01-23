@@ -14,3 +14,8 @@ for _ in range(0, size):
 print(matrix)
 
 # réponse 6.18
+
+for line in matrix:
+    for column in line:
+        if column <= 50:
+            print(line, column)
